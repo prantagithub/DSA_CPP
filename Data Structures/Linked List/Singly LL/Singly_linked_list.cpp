@@ -119,13 +119,6 @@ public:
 };
 //----------------------------------------------
 int main(){
-	SLL* list1=new SLL(2);
-	list1->insert(1);
-	list1->insert(3);
-	list1->insert(5,0);
-	list1->deleteNode(1);
-	list1->print();
-	cout<<list1->search(1)<<endl;
 	//-----------code--------------------------
 	return 0;
 }
