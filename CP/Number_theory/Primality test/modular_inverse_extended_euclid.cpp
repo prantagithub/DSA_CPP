@@ -12,7 +12,6 @@ Can use recursion to calculate.
 
 #include <bits/stdc++.h>
 using namespace std;
-
 int d;
 void extendedEuclid(int A, int B,int& a,int& b){
 	if(B==0){
