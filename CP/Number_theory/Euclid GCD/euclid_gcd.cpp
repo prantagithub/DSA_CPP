@@ -7,5 +7,5 @@ int gcd(int a,int b){
 	}
 }
 int main(){
-	cout<<gcd(3,2)<<endl;
+	return 0;
 }
